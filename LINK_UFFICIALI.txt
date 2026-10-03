@@ -1,0 +1,54 @@
+SideStore
+Progetto: https://github.com/SideStore/SideStore
+Guida: https://docs.sidestore.io/
+IPA: https://github.com/SideStore/SideStore/releases/download/0.6.4/SideStore.ipa
+
+LiveContainer + SideStore
+Progetto: https://github.com/LiveContainer/LiveContainer
+Guida: https://livecontainer.github.io/docs/installation/lc_sidestore
+IPA: https://github.com/LiveContainer/LiveContainer/releases/download/3.8.0/LiveContainer%2BSideStore.ipa
+
+DolphiniOS
+Progetto: https://github.com/OatmealDome/dolphin-ios
+Guida: https://dolphinios.oatmealdome.me/beta
+IPA: https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b6/Non-Jailbroken.ipa
+
+Amethyst
+Progetto: https://github.com/AngelAuraMC/Amethyst-iOS
+Guida: https://github.com/AngelAuraMC/Amethyst-iOS/actions
+IPA: scarica un artifact da Actions oppure compila il progetto
+
+UTM SE
+Progetto: https://github.com/utmapp/UTM
+Guida: https://docs.getutm.app/installation/ios/
+IPA: https://github.com/utmapp/UTM/releases/download/v4.7.5/UTM-SE.ipa
+
+Provenance
+Progetto: https://github.com/Provenance-Emu/Provenance
+Guida: https://github.com/Provenance-Emu/Provenance
+IPA: https://github.com/Provenance-Emu/Provenance/releases/download/3.3.0/Provenance-3.3.0-iOS.ipa
+
+MAME4iOS
+Progetto: https://github.com/yoshisuga/MAME4iOS
+Guida: https://github.com/yoshisuga/MAME4iOS
+IPA: https://github.com/yoshisuga/MAME4iOS/releases/download/2022.5/MAME4iOS-2022.5-250.ipa
+
+iTorrent
+Progetto: https://github.com/XITRIX/iTorrent
+Guida: https://github.com/XITRIX/iTorrent
+IPA: https://github.com/XITRIX/iTorrent/releases/download/v2.2.0-1/iTorrent.ipa
+
+Clip
+Progetto: https://github.com/rileytestut/Clip
+Guida: https://github.com/rileytestut/Clip
+IPA: https://cdn.altstore.io/file/altstore/apps/clip/1_2.ipa
+
+uYouEnhanced
+Progetto: https://github.com/arichornlover/uYouEnhanced
+Guida: https://github.com/arichornlover/uYouEnhanced/wiki/Building
+IPA: https://archive.org/download/YouTubeRebornPlus_19.10.5-4.2.6/yt-uYE-21144-305.ipa
+
+Apollo Reborn
+Progetto: https://github.com/Apollo-Reborn/Apollo-Reborn
+Guida: https://apolloreborn.app/
+IPA: https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_3.8.5/Apollo-Reborn-3.8.5-NOEXTENSIONS.ipa

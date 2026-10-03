@@ -1,0 +1,11 @@
+downloads/
+*.ipa
+*.tipa
+*.deb
+*.part
+__pycache__/
+*.pyc
+*.p12
+*.mobileprovision
+*.mobiledevicepairing
+*.plist

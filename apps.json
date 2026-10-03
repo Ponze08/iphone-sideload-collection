@@ -1,0 +1,199 @@
+{
+  "name": "Ponze iPhone Sideload Collection",
+  "schema_version": 1,
+  "verified_on": "2026-10-03",
+  "apps": [
+    {
+      "id": "sidestore",
+      "name": "SideStore",
+      "repository": "SideStore/SideStore",
+      "project": "https://github.com/SideStore/SideStore",
+      "instructions": "https://docs.sidestore.io/",
+      "installer": "SideStore: seguire la guida ufficiale",
+      "notes": "Store per firma e refresh; qui selezionata una release stabile.",
+      "download": {
+        "version": "0.6.4",
+        "filename": "SideStore.ipa",
+        "url": "https://github.com/SideStore/SideStore/releases/download/0.6.4/SideStore.ipa",
+        "size": 27609918,
+        "sha256": "316d0dbe75ac6a5f05dc2946754cf7d5b634eeec5370f02cf1a91f9a0ed913b9",
+        "release": "https://github.com/SideStore/SideStore/releases/tag/0.6.4",
+        "beta": false
+      }
+    },
+    {
+      "id": "livecontainer",
+      "name": "LiveContainer + SideStore",
+      "repository": "LiveContainer/LiveContainer",
+      "project": "https://github.com/LiveContainer/LiveContainer",
+      "instructions": "https://livecontainer.github.io/docs/installation/lc_sidestore",
+      "installer": "iloader o Impactor",
+      "notes": "Include SideStore. Sideloadly non supportato per questa app.",
+      "download": {
+        "version": "3.8.0",
+        "filename": "LiveContainer+SideStore.ipa",
+        "url": "https://github.com/LiveContainer/LiveContainer/releases/download/3.8.0/LiveContainer%2BSideStore.ipa",
+        "size": 35403538,
+        "sha256": "97dc0fd2202fd4460efcab389943b8d5fdbb4988efff76b116b92b84a4662425",
+        "release": "https://github.com/LiveContainer/LiveContainer/releases/tag/3.8.0",
+        "beta": false
+      }
+    },
+    {
+      "id": "dolphinios",
+      "name": "DolphiniOS",
+      "repository": "OatmealDome/dolphin-ios",
+      "project": "https://github.com/OatmealDome/dolphin-ios",
+      "instructions": "https://dolphinios.oatmealdome.me/beta",
+      "installer": "SideStore / AltStore Classic",
+      "notes": "Beta ufficiale non-jailbroken; richiede configurazione JIT.",
+      "download": {
+        "version": "v5.0.0b6",
+        "filename": "Non-Jailbroken.ipa",
+        "url": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b6/Non-Jailbroken.ipa",
+        "size": 17963367,
+        "sha256": "8460c194f0b24ab3a15594e800e1533cb14e90e0aa51527b3609c7ac0f9745c2",
+        "release": "https://github.com/OatmealDome/dolphin-ios/releases/tag/v5.0.0b6",
+        "beta": true
+      }
+    },
+    {
+      "id": "amethyst",
+      "name": "Amethyst",
+      "repository": "AngelAuraMC/Amethyst-iOS",
+      "project": "https://github.com/AngelAuraMC/Amethyst-iOS",
+      "instructions": "https://github.com/AngelAuraMC/Amethyst-iOS/actions",
+      "installer": "AltStore / SideStore",
+      "notes": "Nessuna release IPA pubblicata. Artifact da Actions o compilazione; JIT necessario.",
+      "download": null
+    },
+    {
+      "id": "utm",
+      "name": "UTM SE",
+      "repository": "utmapp/UTM",
+      "project": "https://github.com/utmapp/UTM",
+      "instructions": "https://docs.getutm.app/installation/ios/",
+      "installer": "App Store oppure sideload ordinario",
+      "notes": "Variante SE per iPhone, senza JIT. Il sistema operativo si importa separatamente.",
+      "download": {
+        "version": "v4.7.5",
+        "filename": "UTM-SE.ipa",
+        "url": "https://github.com/utmapp/UTM/releases/download/v4.7.5/UTM-SE.ipa",
+        "size": 213878374,
+        "sha256": "ccb8529b8b8781410ff481e4ffbdf0d1b47ce5d431031e782e4b6f9601cac06d",
+        "release": "https://github.com/utmapp/UTM/releases/tag/v4.7.5",
+        "beta": false
+      }
+    },
+    {
+      "id": "provenance",
+      "name": "Provenance",
+      "repository": "Provenance-Emu/Provenance",
+      "project": "https://github.com/Provenance-Emu/Provenance",
+      "instructions": "https://github.com/Provenance-Emu/Provenance",
+      "installer": "Sideload ordinario / app ufficiale",
+      "notes": "IPA iOS; oltre 1 GB. Giochi e BIOS separati. JIT dipende dal core.",
+      "download": {
+        "version": "3.3.0",
+        "filename": "Provenance-3.3.0-iOS.ipa",
+        "url": "https://github.com/Provenance-Emu/Provenance/releases/download/3.3.0/Provenance-3.3.0-iOS.ipa",
+        "size": 1076407494,
+        "sha256": "2aaf7fe05cbe86a5d8c5c012c4b87a688d68fd160f53cca1f486d2e7d0f70f8c",
+        "release": "https://github.com/Provenance-Emu/Provenance/releases/tag/3.3.0",
+        "beta": false
+      }
+    },
+    {
+      "id": "mame",
+      "name": "MAME4iOS",
+      "repository": "yoshisuga/MAME4iOS",
+      "project": "https://github.com/yoshisuga/MAME4iOS",
+      "instructions": "https://github.com/yoshisuga/MAME4iOS",
+      "installer": "Sideload ordinario",
+      "notes": "Build iOS con core MAME 0.250; ROM compatibili da aggiungere.",
+      "download": {
+        "version": "2022.5",
+        "filename": "MAME4iOS-2022.5-250.ipa",
+        "url": "https://github.com/yoshisuga/MAME4iOS/releases/download/2022.5/MAME4iOS-2022.5-250.ipa",
+        "size": 107682071,
+        "sha256": null,
+        "release": "https://github.com/yoshisuga/MAME4iOS/releases/tag/2022.5",
+        "beta": false
+      }
+    },
+    {
+      "id": "itorrent",
+      "name": "iTorrent",
+      "repository": "XITRIX/iTorrent",
+      "project": "https://github.com/XITRIX/iTorrent",
+      "instructions": "https://github.com/XITRIX/iTorrent",
+      "installer": "Sideload ordinario",
+      "notes": "Client torrent e magnet; gestione background soggetta a iOS.",
+      "download": {
+        "version": "v2.2.0-1",
+        "filename": "iTorrent.ipa",
+        "url": "https://github.com/XITRIX/iTorrent/releases/download/v2.2.0-1/iTorrent.ipa",
+        "size": 24288935,
+        "sha256": "50457a89299bd62836ca1eb1ae0a5adbe097454c58ce67605bbe6710c37193d7",
+        "release": "https://github.com/XITRIX/iTorrent/releases/tag/v2.2.0-1",
+        "beta": false
+      }
+    },
+    {
+      "id": "clip",
+      "name": "Clip",
+      "repository": "rileytestut/Clip",
+      "project": "https://github.com/rileytestut/Clip",
+      "instructions": "https://github.com/rileytestut/Clip",
+      "installer": "AltStore / SideStore, installazione diretta",
+      "notes": "IPA dalla fonte AltStore ufficiale; configura permessi e tastiera.",
+      "download": {
+        "version": "1.2",
+        "filename": "Clip.ipa",
+        "url": "https://cdn.altstore.io/file/altstore/apps/clip/1_2.ipa",
+        "size": 765019,
+        "sha256": null,
+        "source": "https://apps.altstore.io/",
+        "beta": false
+      }
+    },
+    {
+      "id": "uyou",
+      "name": "uYouEnhanced",
+      "repository": "arichornlover/uYouEnhanced",
+      "project": "https://github.com/arichornlover/uYouEnhanced",
+      "instructions": "https://github.com/arichornlover/uYouEnhanced/wiki/Building",
+      "installer": "Sideload ordinario",
+      "notes": "IPA dalla fonte ufficiale dell’autore su host esterno; non ripubblicato in questa repo.",
+      "download": {
+        "version": "21.14.4",
+        "filename": "uYouEnhanced.ipa",
+        "url": "https://archive.org/download/YouTubeRebornPlus_19.10.5-4.2.6/yt-uYE-21144-305.ipa",
+        "size": 135840058,
+        "sha256": null,
+        "source": "https://raw.githubusercontent.com/arichornlover/arichornlover.github.io/main/apps.json",
+        "beta": false,
+        "source_declared_size": 118022104,
+        "size_note": "Content-Length verificato il 2026-10-03; la dimensione nella fonte originale non era aggiornata."
+      }
+    },
+    {
+      "id": "apollo",
+      "name": "Apollo Reborn",
+      "repository": "Apollo-Reborn/Apollo-Reborn",
+      "project": "https://github.com/Apollo-Reborn/Apollo-Reborn",
+      "instructions": "https://apolloreborn.app/",
+      "installer": "Sideload ordinario",
+      "notes": "Variante senza estensioni; configurazione del login da completare nell’app.",
+      "download": {
+        "version": "v1.15.11_3.8.5",
+        "filename": "Apollo-Reborn-3.8.5-NOEXTENSIONS.ipa",
+        "url": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_3.8.5/Apollo-Reborn-3.8.5-NOEXTENSIONS.ipa",
+        "size": 86444936,
+        "sha256": "856c9ab42150025f42dc9235002dda7a367556442bae5d4e558b25e30b5ac0bf",
+        "release": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/tag/v1.15.11_3.8.5",
+        "beta": false
+      }
+    }
+  ]
+}
